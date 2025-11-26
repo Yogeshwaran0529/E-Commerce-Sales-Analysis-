@@ -156,7 +156,7 @@ Perfect for revenue optimization and marketing strategy planning.
 
 # 📊 **5. Tableau Dashboard — Visuals & Insights**
 
-> ![E-Commerce Sales PowerBI Dashboard](E-commerce Sales Analysis Tableau Dashboard.png)
+![PowerBI Dashboard](E-commerce Sales Analysis Tableau Dashboard.png)
 
 ---
 
