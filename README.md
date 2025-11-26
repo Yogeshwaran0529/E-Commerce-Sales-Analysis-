@@ -64,7 +64,7 @@ The goal was to convert raw data into clear business intelligence dashboards tha
 
 # 📊 **4. Power BI Dashboard — Visuals & Insights**
 
-> [E-Commerce Sales PowerBI Dashboard](E-commerce Sales Analysis Powerbi Dashboard.png)
+> [E-Commerce Sales PowerBI Dashboard](E-commerce_Sales_Analysis_Powerbi_Dashboard.png)
 
 ---
 
@@ -156,7 +156,7 @@ Perfect for revenue optimization and marketing strategy planning.
 
 # 📊 **5. Tableau Dashboard — Visuals & Insights**
 
-![PowerBI Dashboard](E-commerce Sales Analysis Tableau Dashboard.png)
+![Tableau Dashboard](E-commerce_Sales_Analysis_Tableau_Dashboard.png)
 
 ---
 
