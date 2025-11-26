@@ -64,7 +64,7 @@ The goal was to convert raw data into clear business intelligence dashboards tha
 
 # 📊 **4. Power BI Dashboard — Visuals & Insights**
 
-> [E-Commerce Sales PowerBI Dashboard](E-commerce_Sales_Analysis_Powerbi_Dashboard.png)
+![E-Commerce Sales PowerBI Dashboard](E-commerce_Sales_Analysis_Powerbi_Dashboard.png)
 
 ---
 
